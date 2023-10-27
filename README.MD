@@ -1,7 +1,3 @@
-Certainly! Here's the formatted version of the README file for your bug tracker MERN stack project:
-
----
-
 # Bug Tracker App
 
 ## Overview
