@@ -1,0 +1,46 @@
+.container{
+    max-width: 725px;
+    margin: auto;
+    background: #f6f6f6;
+    -webkit-box-shadow: 0px 3px 6px 0px rgba(0, 0, 0, 0.16);
+    -moz-box-shadow: 0px 3px 6px 0px rgba(0, 0, 0, 0.16);
+    box-shadow: 0px 3px 6px 0px rgba(0, 0, 0, 0.16);
+    border-radius: 5px;
+    padding: 40px 50px 30px;
+}
+
+form label, label input, label select{
+    display: block;
+    text-align: left;
+    color: #707070;
+    width: 98%;
+}
+
+label input, label select{
+    width: 100%;
+    padding: 15px;
+    margin-top: 10px;
+    border: rgba(112, 112, 112, 1);
+    margin-bottom: 20px;
+}
+
+form label{
+    margin-top: 20px;
+}
+
+form button{
+    border-radius: 5px;
+    background: #007ae6;
+    color: #fff;
+    border: none;
+    padding: 15px 30px;
+    font-size: 16px;
+    margin-top: 15px;
+    -webkit-box-shadow: 0px 3px 6px 0px rgba(0,0,0,0.16);
+    -moz-box-shadow: 0px 3px 6px 0px rgba(0,0,0,0.16);
+    box-shadow: 0px 3px 6px 0px rgba(0,0,0,0.16);
+}
+
+form button:hover{
+    opacity: 0.8;
+}
